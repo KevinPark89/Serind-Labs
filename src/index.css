@@ -28,6 +28,10 @@ li:last-child {
 	border-bottom: solid 1px black;
 } 
 
+.itemList {
+	width: 100%;
+}
+
 a {
 	display: flex;
 	width: 100%;
